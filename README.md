@@ -1,6 +1,5 @@
 # CS-360-Mobile-Architect-Programming-
 
 
-This application is designed to provide  businesses with an efficient and reliable inventory management system. The app includes a login screen that implements access control, an inventory table screen that displays all of the inventory data appropriately, SMS notifications for low-inventory alerts, and the ability to Add and Edit items within the database. 
+This Android Studio application is crafted to deliver an effective inventory management system for businesses, adhering to best design practices. The app encompasses a user-friendly login screen that implements access control, ensuring secure access to the system. The inventory table screen is designed for optimal display and navigation of inventory data. Leveraging SMS notifications, the app notifies users of low-inventory situations, enhancing proactive management. The functionality to Add and Edit items within the database further empowers users to maintain an up-to-date inventory. The application prioritizes a clean and intuitive user interface, with a focus on user experience and efficient data handling, embodying best design practices for Android applications.
 
-![image](https://github.com/Kyle-Conley/CS-360-Mobile-Architect-Programming-/assets/101020171/d3d9b1c1-59c2-42db-9b1f-4f0349b2db5a)
