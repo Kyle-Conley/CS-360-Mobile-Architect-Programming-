@@ -6,3 +6,4 @@ This Android Studio application is crafted to deliver an effective inventory man
 
 
 ![GithubSnipLogin](https://github.com/Kyle-Conley/CS-360-Mobile-Architect-Programming-/assets/101020171/d85616c3-1a3d-47b5-998f-728ef535a3e1)
+![GithubSnipInventory](https://github.com/Kyle-Conley/CS-360-Mobile-Architect-Programming-/assets/101020171/ccdd08b2-3858-4ba4-99dc-32c9469a18a6)
